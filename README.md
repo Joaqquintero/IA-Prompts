@@ -14,7 +14,7 @@ Genera imagenes ilustrativas para acompañar la explicacion del texto con el afa
 3. DALL·E para generacion de imágenes.
 4. Google Colab para su ejecucion
 
-##Ejemplo de Uso
+## Ejemplo de Uso
 
 Prompt:
 Prompt = "Redacta un acuerdo de confidencialidad entre una empresa de software y un desarrollador freelance."
