@@ -1,24 +1,20 @@
-Asistente Legal IA
+# Asistente Legal IA
 
-Este proyecto va dirigido especificamente a abogados. Se trata de una herramienta para generar resumenes o textos explicativos personalizados para cada situacion, fallo o escrito judicial sobre la que el cliente tenga una duda. En busqueda de ahorrar el tiempo que los abogados dedican a explicar a los clientes como va avanzando su caso, se emplea esta IA con la intencion de que los clientes se mantengan informados y los abogados empleen su tiempo en trabajo importante.
+Este proyecto va dirigido **especificamente a abogados**. Se trata de una herramienta para generar resumenes o textos explicativos personalizados para cada situacion, fallo o escrito judicial sobre la que el cliente tenga una duda. En busqueda de ahorrar el tiempo que los abogados dedican a explicar a los clientes como va avanzando su caso, se emplea esta IA con la intencion de que los clientes se mantengan informados y los abogados empleen su tiempo en trabajo importante.
 
-Funcionalidades
+## Funcionalidades
 
 Genera textos resumenes y explicaciones de fallos entre otros mediante un prompt.
 Genera imagenes ilustrativas para acompañar la explicacion del texto con el afan de enclarecer o dar mayor coherencia a lo explicado anteriormente en el texto.
 
-Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
-Python para implementación de código.
+1. Python para implementación de código.
+2. OpenAI GPT para generación de texto.
+3. DALL·E para generacion de imágenes.
+4. Google Colab para su ejecucion
 
-OpenAI GPT para generación de texto.
-
-DALL·E para generacion de imágenes.
-
-Google Colab para su ejecucion
-
-
-Ejemplo de Uso
+##Ejemplo de Uso
 
 Prompt:
 Prompt = "Redacta un acuerdo de confidencialidad entre una empresa de software y un desarrollador freelance."
@@ -29,6 +25,6 @@ Como Rto se espera = “Este acuerdo de confidencialidad es celebrado entre [emp
 
 Imagen = Ilustracion de un contrato con firmas y sello de aprobacion.
 
-Contacto
+## Contacto
 
 Email: quinterojoaquin80@gmail.com
